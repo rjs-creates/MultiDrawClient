@@ -1,0 +1,8 @@
+E:\2800\Labs\MultiDrawClient\GenericSocket\bin\Debug\GenericSocket.dll
+E:\2800\Labs\MultiDrawClient\GenericSocket\bin\Debug\GenericSocket.pdb
+E:\2800\Labs\MultiDrawClient\GenericSocket\obj\Debug\RajGenericSocket.csprojAssemblyReference.cache
+E:\2800\Labs\MultiDrawClient\GenericSocket\obj\Debug\RajGenericSocket.csproj.CoreCompileInputs.cache
+E:\2800\Labs\MultiDrawClient\GenericSocket\obj\Debug\GenericSocket.dll
+E:\2800\Labs\MultiDrawClient\GenericSocket\obj\Debug\GenericSocket.pdb
+E:\2800\Labs\MultiDrawClient\GenericSocket\bin\Debug\mdtypes.dll
+E:\2800\Labs\MultiDrawClient\GenericSocket\obj\Debug\RajGenericSocket.csproj.CopyComplete

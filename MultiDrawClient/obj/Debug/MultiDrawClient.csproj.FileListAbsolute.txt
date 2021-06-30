@@ -1,0 +1,15 @@
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\MultiDrawClient.exe.config
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\MultiDrawClient.exe
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\MultiDrawClient.pdb
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\mdtypes.dll
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.csprojAssemblyReference.cache
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.ClientForm.resources
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.Properties.Resources.resources
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.csproj.GenerateResource.cache
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.csproj.CoreCompileInputs.cache
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.csproj.CopyComplete
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.exe
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.pdb
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\GenericSocket.dll
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\bin\Debug\GenericSocket.pdb
+E:\2800\Labs\MultiDrawClient\MultiDrawClient\obj\Debug\MultiDrawClient.ConnectDialog.resources
