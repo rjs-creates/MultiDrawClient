@@ -1,9 +1,3 @@
-﻿// Project : Multi Draw Client
-// April 18 2021
-// By Rajeshwar Singh
-//
-// Submission Code : 1202_CMPE2800_MDClient
-// ///////////////////////////////////////////////////////////////////////////
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
